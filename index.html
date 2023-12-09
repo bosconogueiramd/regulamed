@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Calculadoras de apoio à regulação</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="page-container">
+        <h1><span class="emoji">🧾</span> Calculadora de Quimioterapia <span class="emoji">🧾</span></h1>
+        <div class="container">
+            <p>Digite <strong>mês e ano de início do tratamento.</strong></p>
+            <p>Ex.: Data de início: 03/11/2022 :</p>
+            <p>Digite: 11/2022.</p>
+            <label for="dataInicio"></label>
+            <input type="text" id="dataInicio" placeholder="MM/AAAA"  maxlength="7">
+            <button id="calcularBtn">Calcular</button>
+            <p id="resultado"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+
+
+    <div class="page-container">
+        <h1><span class="emoji">💉</span> # Calculadora de Hemodiálise # <span class="emoji">💉</span></h1>
+        <div class="container"> 
+        <form id="dateForm">
+            <label for="startDate">Data de Início:</label>
+            <input type="text" id="startDate" placeholder="DD/MM/AAAA" />
+            <button type="submit">Verificar</button>
+        </form>
+        <div id="result"></div>
+        
+         </div>
+    </div>
+    
+    <p id="horaAtual"></p>
+    <p id="horasFaltantes"></p>
+    
+    <script src="script.js"></script>
+
+</html>
