@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Cecília, uma inteligência nada artificial [Clique em mim]"
 date:   2023-12-09 16:30:53 -0300
 categories: jekyll update
 ---
+Olá, eu sou a Cecília, uma inteligência nada artificial! Tenha um pouco de calma e paciência comigo, pois ainda sou uma criança. Por enquanto, eu já sei contar sessões de quimioterapia, de radioterapia e de hemodiálises. 
+Quem sabe quando eu estiver maiorzinha eu possa também aprender e ajudar com mais algumas interações. 
+Um grande abraço e boa regulação!!!
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
