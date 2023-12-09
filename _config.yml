@@ -21,7 +21,8 @@
 title: Regulamed
 email: bosco.nogueira@centrodojoelho.com.br
 description: >- # this means to ignore newlines until "baseurl:"
-  Ferramentas de apoio à regulação médica para uma ambiente específico de regulação. Não é uma ferramenta universal, nem oficial. 
+  Ferramentas de apoio à regulação médica para uma ambiente específico de trabalho. 
+  Não é uma ferramenta universal (não a utilize para outros ambientes para os quais não foi configurada), nem oficial. 
   É uma ferramenta não restritiva, de consulta e suporte. Não substitue a literatura tradicional, nem o julgamento médico autônomo. 
   Tem uso opcional. É de inteira responsabilidade do usuário a escolha e uso dessas ferramentas. 
 baseurl: "/regulamed" # the subpath of your site, e.g. /blog
