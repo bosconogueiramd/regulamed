@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Regulamed
+email: bosco.nogueira@centrodojoelho.com.br
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Ferramentas de apoio à regulação médica para uma ambiente específico de regulação. Não é uma ferramenta universal, nem oficial. 
+  É uma ferramenta não restritiva, de consulta e suporte. Não substitue a literatura tradicional, nem o julgamento médico autônomo. 
+  Tem uso opcional. É de inteira responsabilidade do usuário a escolha e uso dessas ferramentas. 
+baseurl: "/regulamed" # the subpath of your site, e.g. /blog
+url: "bosconogueiramd.github.io/regulamed" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  bosconogueiramd
 
 # Build settings
 theme: minima
