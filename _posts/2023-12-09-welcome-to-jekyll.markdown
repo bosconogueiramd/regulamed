@@ -5,7 +5,8 @@ date:   2023-12-09 16:30:53 -0300
 categories: jekyll update
 ---
 
-![Avatar Regullanny](https://github.com/bosconogueiramd/regulamed/blob/main/_site/fotos/Slide1.jpeg)
+![Avatar Regullanny](https://github.com/bosconogueiramd/regulamed/raw/main/_site/fotos/Slide1.jpeg)
+
 
 ---
 Olá, eu sou a **Regulanny**, uma inteligência cearense nada artificial!
