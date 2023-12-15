@@ -1,18 +1,58 @@
 ---
 layout: post
-title:  "Regullany, uma cearense nada artificial."
-date:   2023-12-09 16:30:53 -0300
+title: "Regullany, uma cearense nada artificial."
+date: 2023-12-09 16:30:53 -0300
 categories: jekyll update
 ---
 
+<style>
+  .post-image1 {
+    max-width: 70%; /* Redimensiona a largura máxima da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+    display: block; /* Remove margens indesejadas */
+    margin: auto; /* Centraliza a imagem */
+    float: left; /* Flutua a imagem à esquerda */
+    margin-right: 20px; /* Adiciona um espaço à direita da imagem */
+    margin-bottom: 2.5em; /* Adiciona margem inferior para manter a foto na mesma altura */
+    margin-top: -1.5em;
+  }
 
-Olá, eu sou a **Regulanny**, uma inteligência cearense nada artificial!
+  .post-image2 {
+    max-width: 50%; /* Redimensiona a largura máxima da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+    display: block; /* Remove margens indesejadas */
+    margin: auto; /* Centraliza a imagem */
+  }
 
+  /* Adiciona uma margem superior para alinhar o texto à parte superior da imagem */
+  .floating-text {
+    margin-top: 5.5em; /* Ajuste conforme necessário (2.5em é um exemplo) */
+    text-align: justify; /* Justifica o texto */
+  }
 
-Tenha um pouco de calma e paciência comigo, pois ainda sou uma criança. Por enquanto, eu já sei contar sessões de quimioterapia, de radioterapia e de hemodiálises. 
+  /* Adiciona um elemento de clearing após as imagens flutuantes */
+  .clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+</style>
 
-Quem sabe quando eu estiver maiorzinha eu possa também ajudar com interações mais complexas.
+![reg](/fotos/Regullanny.png){: .post-image1}
 
-Um grande abraço e boa regulação!!!
+<div class="floating-text">
+  Olá, eu sou a <strong>Regulanny</strong>, uma inteligência cearense nada artificial!
 
-![reg](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJQAlAMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAAAgMHAQQGBQj/xABCEAABAwMBBAYFCAgHAQAAAAABAAIDBAURIQYSMUEHE1FhcZEUMoGh0SJCUlNUcrHBFyMzgpKywuEVJTRDYqPwJP/EABkBAQADAQEAAAAAAAAAAAAAAAABAwQCBf/EACURAQACAgIBAwQDAAAAAAAAAAABAgMRITESIkFRBBMVMhRhcf/aAAwDAQACEQMRAD8AtZCEKt0EIQgELOFnCDGEYTYWcIFwjCJZIoW700rI29r3Bo9614rlbpn7kNwpJH/RZOxx8gUS2MLGE+MjI4IwiCLCchKQgwhZWEAhCEAhCEAhCEAsgIATgIMAJgFnC1Lxc6Sy2ye43CTq6eFuXHiSeTQOZJ0ARHbZkcyKN0krmsjYMuc44DRzJKp7a/pQrKmokpdmn+jUjfk+llv6yQ9rc6NHsz4LmtsNtLrtNUujme6moQcso43ENxy3/pHjx07Fzpa7dDiNDzXFre0NOPHrmT1lRPXy9bXTy1Mn053l58yoTGwjBY3HgEw4gdqd8T2DJblvaOC4XPTs+0t7sr2m23KojYD+yc7fjPdunRWlsl0oUdykjo76xlDVO0bODiF578nLD46d6plgYeLy3xGQpTA9rcuaJIzxLexTE6cWpFn1IVghU50fbcTWeWC13iZ01rlIbBUPOTTE8ASfmfy+HC5SMK2J2y2rNZRELCkI7EhCIKhCEAhCEAshYTBBkBOFgBO0IiQAql6Y7uZrxR2ZriIaWP0iYci93q58Ggn94K3QFRd0tE+1nSZeKdjyynZPieYcWRtAbgd53cD+y5vOoW4Y3Zw028+QytjIhJ3A7Gm9xwT24yVNRuacwyD5L+Hir1uGy9srNnjY2wCGlAzEY+MbxqH55nPHPHVUjebTW7P3J1DcoxvcWPHqzM+k0/8AsKmtos1THiglo5IzmPLm+8JPSZWt3ScY7tVvU7nFgw7fb28x4qOsdMNQ1jmduMkLoaDnOccuOT4YUtPUOgPElp4hQnjk800T9x+SARzBHEIPV6uJ7HNwDG/l4q5ui2+PvGzYp6p+/WW93o8jidXN+Y7y0z2tKpdsbepc2Nx3Hat7l2HQvcHN2sq6bg2qpC5w/wCTCPyc5dVnlXljdVzkJSFK4JCFYyIiEqkISFEsIQhBkJglCcIGaFIErU4UoM0KvKOW2bMzXKrutXBSyV1fPJmR2rhvkNAHE6a+1WIFydwtsL7nWzsoIauqmcGDrt3DQOAyeDc5OgJ1OhVWaNxpf9POpmUdt2ksl0lEVBc6aaU8Iw/Dj4A6qS/WSgv9A6juUPWR8WOGjo3cnNPIrg7bbLZtLeqummslP6LG1sjK6iifTO+UGkEtPHU4JOoI4ccWast6+E8NlbRaFB7VbP1WydeI31Uc8Dz+rla4B2Ox7OI8eBWjFXtIG+3jzbqFYO2ltstouHpz7M6vnrqgmSSpqXsiDjjQbvHiOWMHjyU1TsBar1C59DELRWgZ/wDmcZqWbGm808xkEaYOmo4Z0RPG5VTPOlcPNHJ8ondceYyFrSRRN9SYO8WldHdOj/aS3uOKNtZF9ZSv3tPunB/Fc1PBPTSmKpglglAyY5oyxw78HVEt2glBicHH1Dn2L3uiqoEG3tuJ0Eolj82E/kuUZIWMe0fP4nuXsbFS+jbXWSYnQ1rGfxEN/qUx25t1L6VISFSlRuVzEjKQqQpCoTBEIQgyE4SBOEJSNUgUYUgUoO3iuXguEVZNUTxer18sWnax5Yfe0rpy4MaXu9VoyfAKpei26iuoKyGRwMsdU+U57JSXZ895U5/1afpv2dzAIml5ijawvOXloxvHvTtdvPeOTTj3LOA0E44dihpZGuiMm8CXuLi0HUdg8sLHtt49hX0dNXwNhrI+sja7eaMkFp7iNQpqcRQxRwQRiOJgDWMaMBo7AmHEAqQMA5KYmXOq/DOcaqmOl1mNqon/AE6Ng9oc9XHK8NaSeAVQ9Lrf83oJDxfA4eTv7rvHPLm3Th4G78gb3H8Ct60O6q72aTOMVkL/APtb8FrUAzUeDSpR+qrqEfVvjPk4LQrnp9TP4nxUZUknrHxUZVzCRyjcpCo3KEwRCEIMhOEgThCUjU4UbVIFKGre5uoslwm4blNI7yaV867D3sWG8wTTO3aSVvVVHcDwd7Dj2ZV/7XnGyV6I4+gTfyFfMwYXRF45HBCryc8NGB9JCQuh348F2NOaw1k8sfXU8tCY8audKQR3EY0VZ7D7asoJRaLzJiBpDYKknRnY13d2HlwVlupoJJOtdExz+O9jisuor3DZE76k1MZHO+X1ZHJzCSD5rYc7Hiowd3XQYWnVVbGg6nhnA4lcf4mf7LX1kNPBLUVMrYqeIF0kjzgNA5qjdqtpjtNd3zxNLaSAdXTtcNS3m495+C09sdsLhtJOYpcQUUbvkUzDkZHNx+cfcvGt3GT2fmtNcfjG57ZpyeVtR09i3DDnvPcB7UTnNwiA5PYPekgfrHGzgXguPanpR6ReKVjdesqo2D2vAXTqen1Q/wBY+KjKd/rHxUblcwkckKYpCoTBUIQgymCRZCCUFO0qIFO04RDS2ji6/Z26Qji+jlb5sK+bLc0PhfvcHbq+oXsE0bon+q9pafaML5dO9SVJo5BuejyuZJnmWnB/Bc3aMPvCOs/1Uns/AL0rbttfdnqZkFFUskpwd1sFQzfa37p0I8M4XlP35pHPDTqV7uymx0e1FTJDPcRSdQA4xtZvPeDzGTjT81XuPdoml/HcQtHZ6uuF8sdDXTtAkqIQ9wYN1oJ7F7EFCImufId5+6caaBNZ7dFaLVS26nc98NLGI2uf6xA7cLbIyCO3RZptG+Hda8cvlKfSeX77vxWxbvXf4BdHttsa7Z+5CKnr2VZlBk3N3ccwZ0zqRrr5LnqOKSKV4kY5pxzC2+UTHDLGO9ZiZhutcWuDm8Qvb2FozX7ZWeDGQKpshH3Pl/0ryqWIyPJIy1up8exWN0L2jrL1V3Nzcx0UXUtdjQyv1d5NGP3lzXtZedVlcRKQlMSkJVrEUlIUxKRQkIQhALKwhAwKcFRJgUEj37jC48lXW22ytsfaLncaaijZXlxqTKNXE5y4dwIzwXe1Lv1WDzK8a+ECy3Auxu+jP/lKzZrz5RDb9JWI9ShVLS1M9JUMqKWV8MzDlr2HBChb6o8FlQ97Xs6+l6Rb3CwNlZST4+c+MgnyIHuUdZ0g32oYWROpqbPzoY9fNxK5RCjUK/s070eaaWolfNPI+WV5y573ZLj3la1V+zHZlTKaiDHV1IJQCzr494HhjeGVPRkp5UmD7PWy5XqYQW2Av5GUjEUY+k535cVf2y1opbFY4LfRkuEeTJI71pHnUuPj+CwxjY27rGNa0cA0YC2aN2HuGeIU0y+rTxc2P0NwlKSglIStLECVhCEAhCEAhCEAo6iYwR74Y52uNOSkQg851a6TR4G7y3VoXyJ1xs9ZRQPEck8Lo2vdwaSF7roYnetG0+xRmjg+iR4FcWx1tO5WUzXpGoVIOjm4/b6Pyd8Efo5uP2+j8nfBWyaGLk549qx6Az6bvcnhVo/IZ/lVH6OLj9vo/J/wR+ji4/b6Pyf8Fa/+Ht+td5I/w9v1rv4U8Kn5DP8AKqP0c3H7fR+Tvgld0cXEtIFwpASNCA/4K2fQGfWO8kCgj5vcn26n8/P8tZs/yRvgl2NSO1HpTmnMQwe8Lb9CgHJ59qZtLAP9sHx1URipE7hROa9o1KCCuc94Y5mc82LdWGtDRhoAHcFlWKdBCEIkIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhAIQhB/9k=)
+  Tenha um pouco de calma e paciência comigo, pois ainda sou uma criança. 
+  
+  Por enquanto, eu já sei contar sessões de quimioterapia, de radioterapia e de hemodiálises. 
+
+  Quem sabe quando eu estiver maiorzinha eu possa também ajudar com interações mais complexas.
+  
+  Um grande abraço e boa regulação!!!
+</div>
+
+![logo](/fotos/Slide1.jpeg){: .post-image2}
+
+<!-- Adiciona o elemento clearfix para evitar que o conteúdo abaixo seja afetado pela flutuação -->
+<div class="clearfix"></div>

@@ -1,18 +1,25 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**Regulamed&reg;** é um site de apoio à regulação. Foi desenvolvido para um ambiente específico de regulação. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Não deve ser usado para apoio em outras centrais de regulação para além da qual foi desenvolvido. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+É um material de apoio, não substituindo, pois, a literatura médica. 
 
+Qualquer decisão médica é de inteira responsabilidade do usuário médico, sendo esse site um apoio consultivo, livre. 
 
-[jekyll-organization]: https://github.com/jekyll
+<style>
+ .post-image2 {
+    max-width: 50%; /* Redimensiona a largura máxima da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+    display: block; /* Remove margens indesejadas */
+    margin: auto; /* Centraliza a imagem */
+  }
+
+  </style>
+
+![logo](/fotos/Slide1.jpeg){: .post-image2}
